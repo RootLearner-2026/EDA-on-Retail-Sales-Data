@@ -88,4 +88,4 @@ The insights generated from this analysis can help businesses improve product st
 ## 👨‍💻 Author
 
 **Narayan**
-Data Analytics Intern – Oasis Infobyte
+Research Analyst 
