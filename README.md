@@ -1,10 +1,7 @@
 # Exploratory Data Analysis on Retail Sales Data
 
-## Oasis Infobyte Internship
 
 **Domain:** Data Analytics
-**Task:** Task 1
-
 ---
 
 ## 📌 Project Overview
